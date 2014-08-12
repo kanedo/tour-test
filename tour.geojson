@@ -12992,19 +12992,6 @@
                     ]
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "sym": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.003984231507409,
-                    50.76881899968792
-                ]
-            }
         }
     ]
 }
